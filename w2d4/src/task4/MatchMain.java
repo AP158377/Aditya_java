@@ -9,8 +9,8 @@ public class MatchMain {
 
 		System.out.println("Enter the Match Format");
 		System.out.println("1.ODI");
-		System.out.println("2.T20");
-		System.out.println("3.Test");
+		System.out.println("2.Test");
+		System.out.println("3.T20");
 
 		Scanner s = new Scanner(System.in);
 
